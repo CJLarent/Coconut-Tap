@@ -1,21 +1,27 @@
 extends KinematicBody2D
 # Declare member variables here. Examples:
-var score = 0
+
 
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	print("the score starts at zero!")
+	pass
 
-
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-#func _process(delta):
-#	pass
 
 
 func _on_Button_pressed():
-	print ("YAY!")
-	score=score + 1 
-	print("YAY!", score)
+
+	Engine.score= Engine.score + 1
+	if (Engine.score== 5):
+		print ("Nice!")
+		
+	
+	else:
+		pass 
 	
 	
+
+
+func _on_Exit_Button_button_up():
+	get_tree().quit()
