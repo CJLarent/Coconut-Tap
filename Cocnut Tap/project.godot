@@ -16,8 +16,8 @@ _global_script_class_icons={
 [application]
 
 config/name="Cocnut Tap"
-run/main_scene="res://World.tscn"
-config/icon="res://icon.png"
+run/main_scene="res://Scenes/World.tscn"
+config/icon="res://Assets/icon.png"
 
 [display]
 
@@ -26,7 +26,6 @@ window/size/height=500
 
 [rendering]
 
-quality/driver/driver_name="GLES2"
 vram_compression/import_etc=true
 vram_compression/import_etc2=false
 environment/default_environment="res://default_env.tres"
