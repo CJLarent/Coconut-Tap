@@ -6,4 +6,13 @@
 
 [node name="Tween" type="Tween" parent="."]
 
+<<<<<<< HEAD
 [node name="RayCast2D" type="RayCast2D" parent="."]
+=======
+[node name="Control" type="Control" parent="."]
+margin_right = 40.0
+margin_bottom = 40.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+>>>>>>> f9b6be5907bd4bf3176702aa7890894897ca7176
