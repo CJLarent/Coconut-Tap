@@ -16,17 +16,12 @@ _global_script_class_icons={
 [application]
 
 config/name="Cocnut Tap"
-run/main_scene="res://Scenes/World.tscn"
 config/icon="res://Assets/icon.png"
-
-[autoload]
-
-Engine="*res://Code/Engine.gd"
 
 [display]
 
-window/size/width=300
-window/size/height=500
+window/size/width=1920
+window/size/height=1080
 
 [rendering]
 
