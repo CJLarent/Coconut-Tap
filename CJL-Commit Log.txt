@@ -1,0 +1,3 @@
+Have the place holder assest for now from my changes each ocject.
+Has gravity and golden cocunut scene  gets inherited to my main work scene. 
+To be added in torrow the player picking up item and some buttons 
