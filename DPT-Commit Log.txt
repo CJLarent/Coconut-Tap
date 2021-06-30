@@ -1,5 +1,15 @@
 UPDATE LOG:
 
+Commit #3
+Morning cleanup/ organising
+- Chris I moved your gd script to your code file. Just in case your looking.
+- Your commit is looking good keep it up.
+- if you need help with anything let me know.
+
+*quote of the day:*
+“I’ve spent months preparing for the day I’d face you in your final form. I’ve come a long way, Cell.” Goku
+
+---------------------------------------------------------------------------------------------
 Commit #2 
 -Created Score Ui image 
 -Clicking coconut updates coins in UI

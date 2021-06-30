@@ -16,7 +16,6 @@ _global_script_class_icons={
 [application]
 
 config/name="Cocnut Tap"
-run/main_scene="res://Scenes/CJL-WorkScene/CJL-WorkScene.tscn"
 config/icon="res://Assets/icon.png"
 
 [autoload]

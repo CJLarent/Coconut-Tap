@@ -1,7 +1,8 @@
 [gd_scene load_steps=3 format=2]
 
-[ext_resource path="res://Scenes/DPT-WorkScene/ScoreUI.tscn" type="PackedScene" id=1]
-[ext_resource path="res://Scenes/DPT-WorkScene/Coconut button.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Game Objects/DPT-GameObjects/ScoreUI.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Game Objects/DPT-GameObjects/Coconut button.tscn" type="PackedScene" id=2]
+
 
 [node name="DPT-WorkScene" type="Node2D"]
 
