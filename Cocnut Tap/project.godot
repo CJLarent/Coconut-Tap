@@ -19,6 +19,10 @@ config/name="Cocnut Tap"
 run/main_scene="res://Scenes/CJL-WorkScene/CJL-WorkScene.tscn"
 config/icon="res://Assets/icon.png"
 
+[autoload]
+
+g_Inventory="*res://Code/globalSpace/g_Inventory.gd"
+
 [display]
 
 window/size/width=1920

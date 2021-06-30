@@ -1,0 +1,18 @@
+UPDATE LOG:
+
+Commit #2 
+-Created Score Ui image 
+-Clicking coconut updates coins in UI
+-Added LemonFont
+
+---------------------------------------------------------------------------------------------
+Commit #1
+-Created Coconut vector image
+-Created coconutButton 
+-Organized some files
+-Added g_Inventory script file in globalspace for player related items, 
+
+such as: -coins, 
+	 -CPS, 
+         -Golden Coconuts.
+
