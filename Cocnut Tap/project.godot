@@ -18,6 +18,10 @@ _global_script_class_icons={
 config/name="Cocnut Tap"
 config/icon="res://Assets/icon.png"
 
+[autoload]
+
+g_Inventory="*res://Code/globalSpace/g_Inventory.gd"
+
 [display]
 
 window/size/width=1920

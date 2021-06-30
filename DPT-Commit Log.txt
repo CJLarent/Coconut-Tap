@@ -1,0 +1,12 @@
+UPDATE LOG:
+
+Commit #1
+-Created Coconut vector image
+-Created coconutButton 
+-Organized some files
+-Added g_Inventory script file in globalspace for player related items, 
+
+such as: -coins, 
+	 -CPS, 
+         -Golden Coconuts.
+
