@@ -3,26 +3,31 @@ extends KinematicBody2D
 export(PackedScene)var Golden_Cocnut
 onready var Timer = $"Golden Timer" # ref to the timer node  
 var vewport = get_viewport()
+# values for Random Numbers 
+var Random_Chance = RandomNumberGenerator.new()
+
+# Ready func vales 
+var Total_Cocunuts_Left 
+var grav  : float = 25
 
 
-# pre load the assest if needed  
-#onready var Golden_Image = preload("res://Assets/Scenes/Golden Cocunut .tscn")
+# export values export  allows editer to change values 
 export var Time_In_Seconds = 2
 
 export var Num_Cocunuts =10
-var Total_Cocunuts_Left 
-
-var grav  : float = 25
 
 #vectors 
 var vel = Vector2.ZERO# (0.0)
 # Called when the node enters the scene tree for the first time.
 func _ready():
+	Random_Chance.randomize()
 	Total_Cocunuts_Left = Num_Cocunuts
 	Timer.wait_time = Time_In_Seconds
 	Timer.start()
+	print (Random_Chance.randfn())
 	
-	
+
+
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
@@ -44,5 +49,9 @@ func _on_Golden_Timer_timeout():
 	
 
 
-func _on_Golden_Cocunut__mouse_entered():
-	print ("pressed")
+
+
+
+func _on_Button_pressed():
+	print ("Obejet Delete")
+	queue_free()
