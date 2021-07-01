@@ -1,3 +1,12 @@
+Day 1 
+
 Have the place holder assest for now from my changes each ocject.
 Has gravity and golden cocunut scene  gets inherited to my main work scene. 
-To be added in torrow the player picking up item and some buttons 
+To be added in torrow the player picking up item and some buttons.
+
+Day 2 
+
+Starting to build Random Numbers for wish values. 
+Using the que_free() after the button is clicked.
+Golden Cocnut is a speical button
+    
