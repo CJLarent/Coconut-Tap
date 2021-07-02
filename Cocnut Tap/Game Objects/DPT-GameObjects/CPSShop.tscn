@@ -1,0 +1,31 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Assets/Images/CPS Shop.png" type="Texture" id=1]
+[ext_resource path="res://CPSShopButton.tscn" type="PackedScene" id=2]
+
+[node name="CPSShop" type="Control"]
+__meta__ = {
+"_edit_use_anchors_": false,
+"_edit_vertical_guides_": [ 652.075 ]
+}
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( -1, 0 )
+texture = ExtResource( 1 )
+centered = false
+
+[node name="CPSShopButton1" parent="Sprite" instance=ExtResource( 2 )]
+margin_left = 61.6011
+margin_top = 138.452
+margin_right = 61.6011
+margin_bottom = 138.452
+
+[node name="CPSShopButton2" parent="Sprite" instance=ExtResource( 2 )]
+anchor_top = 0.00154648
+anchor_bottom = 1.00155
+margin_left = 366.601
+margin_top = 136.782
+margin_right = 366.601
+margin_bottom = 136.782
+
+[node name="Sprite" type="Sprite" parent="Sprite"]

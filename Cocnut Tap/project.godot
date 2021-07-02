@@ -22,11 +22,15 @@ config/icon="res://Assets/icon.png"
 [autoload]
 
 g_Inventory="*res://Code/globalSpace/g_Inventory.gd"
+g_CPSShop="*res://Code/globalSpace/g_CPSShop.gd"
 
 [display]
 
 window/size/width=1920
 window/size/height=1080
+window/size/always_on_top=true
+window/stretch/mode="2d"
+window/stretch/aspect="keep"
 
 [input]
 
