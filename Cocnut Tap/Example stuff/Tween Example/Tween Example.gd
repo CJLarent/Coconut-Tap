@@ -5,7 +5,7 @@ extends Control
 
 func _tweenTest():
 	#								object      field      start pos                                        end pos           time   transistion type    ease type
-	$LucyTween.interpolate_property($DavePix, "position",Vector2($DavePix.position.x, $DavePix.position.y), Vector2(900, 900), 3,Tween.TRANS_BOUNCE, Tween.EASE_OUT)
+	$LucyTween.interpolate_property($DavePix, "scale",Vector2(0.25,0.25), Vector2(4,4), 6,Tween.TRANS_ELASTIC, Tween.EASE_OUT)
 	pass
 
 
