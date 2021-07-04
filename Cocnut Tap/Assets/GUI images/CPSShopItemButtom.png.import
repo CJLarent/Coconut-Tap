@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/CPSShopItemButtom.png-8bdbb7f3e4ad0950c2aa10bcdd3be3e7.stex"
+path="res://.import/CPSShopItemButtom.png-5f131e70e38bc0891175bddee19fa379.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Code/CPSShopItemButtom.png"
-dest_files=[ "res://.import/CPSShopItemButtom.png-8bdbb7f3e4ad0950c2aa10bcdd3be3e7.stex" ]
+source_file="res://Assets/GUI images/CPSShopItemButtom.png"
+dest_files=[ "res://.import/CPSShopItemButtom.png-5f131e70e38bc0891175bddee19fa379.stex" ]
 
 [params]
 

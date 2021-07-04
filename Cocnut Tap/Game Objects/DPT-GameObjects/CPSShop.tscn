@@ -1,7 +1,9 @@
 [gd_scene load_steps=3 format=2]
 
 [ext_resource path="res://Assets/Images/CPS Shop.png" type="Texture" id=1]
-[ext_resource path="res://CPSShopButton.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Game Objects/DPT-GameObjects/CPSShopButton.tscn" type="PackedScene" id=2]
+
+
 
 [node name="CPSShop" type="Control"]
 __meta__ = {

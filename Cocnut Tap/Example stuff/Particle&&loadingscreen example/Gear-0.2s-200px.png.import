@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Gear-0.2s-200px.png-bd12eee3e7db955f7d51edae30f2fc67.stex"
+path="res://.import/Gear-0.2s-200px.png-361e1f2c89d2799ac4727683f100a3a3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Example stuff/Gear-0.2s-200px.png"
-dest_files=[ "res://.import/Gear-0.2s-200px.png-bd12eee3e7db955f7d51edae30f2fc67.stex" ]
+source_file="res://Example stuff/Particle&&loadingscreen example/Gear-0.2s-200px.png"
+dest_files=[ "res://.import/Gear-0.2s-200px.png-361e1f2c89d2799ac4727683f100a3a3.stex" ]
 
 [params]
 

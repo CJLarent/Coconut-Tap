@@ -9,6 +9,12 @@ Morning cleanup/ organising
 *quote of the day:*
 “I’ve spent months preparing for the day I’d face you in your final form. I’ve come a long way, Cell.” Goku
 
+Commit #3
+-clean up some stuff
+-Golden Coconut example
+-Some Examples
+-CPS Shop created CPS buttons in the works
+
 ---------------------------------------------------------------------------------------------
 Commit #2 
 -Created Score Ui image 
