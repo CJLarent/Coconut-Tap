@@ -16,7 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Cocnut Tap"
-run/main_scene="res://Example stuff/Particle&&loadingscreen example/DontOpenItIfUHavePotatoeComp.tscn"
+run/main_scene="res://Example stuff/golden coconut example/goldenCoconutSpawner.tscn"
 config/icon="res://Assets/icon.png"
 
 [autoload]

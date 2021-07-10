@@ -25,3 +25,9 @@ func _activate_golden_coconut():
 	tweeny.interpolate_property(obj,prop,start,end,speed,trans,easing)
 	tweeny.start()
 	pass
+
+
+
+
+
+
